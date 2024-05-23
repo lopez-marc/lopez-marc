@@ -19,6 +19,17 @@ The final group project was to build a platform to host Camping spaces inspired 
 <br/>
 <br/>
 
+<div style="position: relative; width: 300px; height: 300px;">
+  <svg width="0" height="0">
+    <defs>
+      <clipPath id="clipPath1">
+        <circle cx="150" cy="150" r="150" />
+      </clipPath>
+    </defs>
+  </svg>
+  <img src="https://user-images.githubusercontent.com/78852823/151708910-2435a316-a41d-40c7-a9f3-6ec075391e60.png" style="width: 100%; height: 100%; clip-path: url(#clipPath1);" />
+</div>
+
 [![Final Project](https://user-images.githubusercontent.com/78852823/151708910-2435a316-a41d-40c7-a9f3-6ec075391e60.png)](https://freshbnb.vercel.app/)
 
 <img src="https://user-images.githubusercontent.com/78852823/151708910-2435a316-a41d-40c7-a9f3-6ec075391e60.png" style="width: 100%; height: 100%; clip-path: url(#hero-clip-animation);">
